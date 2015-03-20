@@ -1,0 +1,19 @@
+2015/03/20 11:54:29		ABF5DD32C405E633E6FE69AF4DDAC65C		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 11:54:29		ABF5DD32C405E633E6FE69AF4DDAC65C		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 11:57:27		ABF5DD32C405E633E6FE69AF4DDAC65C		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				177.63800048828125
+2015/03/20 12:22:14		68D4EC689DE9010C73217F636E987AE0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 12:22:14		68D4EC689DE9010C73217F636E987AE0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 12:27:28		68D4EC689DE9010C73217F636E987AE0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				314.0559997558594
+2015/03/20 12:29:00		4EEF922B87B94A195662AA25BA6A4EDD		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 12:29:00		4EEF922B87B94A195662AA25BA6A4EDD		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 12:30:08	pentaho-cdf-dd	4EEF922B87B94A195662AA25BA6A4EDD	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_start	ef274398-12a4-4942-a5a9-6f956f19a034	ts=1426865407833;		0.0
+2015/03/20 12:30:15	pentaho-cdf-dd	4EEF922B87B94A195662AA25BA6A4EDD	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_end	ef274398-12a4-4942-a5a9-6f956f19a034			7.50600004196167
+2015/03/20 12:50:00		4EEF922B87B94A195662AA25BA6A4EDD		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				1259.490966796875
+2015/03/20 12:50:56		FD2E55E4A86A23222A0A9EC86B679576		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 12:50:56		FD2E55E4A86A23222A0A9EC86B679576		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 13:00:10		FD2E55E4A86A23222A0A9EC86B679576		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				554.3099975585938
+2015/03/20 13:00:42		D609CA2BAD1479C325667FF120D00B64		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 13:00:42		D609CA2BAD1479C325667FF120D00B64		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/20 13:02:15	pentaho-cdf-dd	D609CA2BAD1479C325667FF120D00B64	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_start	75ed7cb6-ef0d-4c68-9a5b-c0d7dc1cd590	ts=1426867334922;		0.0
+2015/03/20 13:02:21	pentaho-cdf-dd	D609CA2BAD1479C325667FF120D00B64	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_end	75ed7cb6-ef0d-4c68-9a5b-c0d7dc1cd590			6.485000133514404
+2015/03/20 13:02:39		D609CA2BAD1479C325667FF120D00B64		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				117.15399932861328
