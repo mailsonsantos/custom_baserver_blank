@@ -1,0 +1,14 @@
+<DesignerProperty>
+  <Header>
+    <Name>cccDataWhere</Name>
+    <Parent>BaseProperty</Parent>
+    <DefaultValue></DefaultValue>
+    <Description>dataWhere</Description>
+    <Tooltip>A function that filters datums being loaded.</Tooltip>
+    <InputType>JavaScript</InputType>
+    <OutputType>Function</OutputType>
+    <Order>294</Order>
+    <Advanced>true</Advanced>
+    <Version>2.0</Version>
+  </Header>
+</DesignerProperty>

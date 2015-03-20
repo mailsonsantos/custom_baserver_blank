@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin title="marketplace">
+
+  <!--
+	<overlays>
+	    <overlay id="admin.perspective.overlay.ee"  resourcebundle="content/marketplace/marketplace/lang/messages">	    	
+			<treechildren id="adminCatTreeChildren">
+			
+    			<treeitem id="marketplace" container="true"
+						  command="mantleXulHandler.loadAdminContent('marketplace', 'content/marketplace/marketplace/main.html')">
+	  				<treerow>
+	    				<treecell label="${title}" />
+		  			</treerow>	    
+				</treeitem>
+					
+			</treechildren>		
+	    </overlay>
+	</overlays>
+  -->
+
+	<static-paths>
+		<static-path url="/marketplace/marketplace" localFolder="marketplace"/>
+	</static-paths>
+
+	<external-resources>
+      <file context="requirejs">content/marketplace/marketplace/marketplace-require-js-cfg.js</file>
+    </external-resources>
+
+	<perspective id="marketplace.perspective" title="${title}" layout-priority="-1"
+               resourcebundle="content/marketplace/marketplace/lang/messages" content-url="content/marketplace/marketplace/main.html"
+               required-security-action="org.pentaho.security.administerSecurity">
+	</perspective>
+
+</plugin>
