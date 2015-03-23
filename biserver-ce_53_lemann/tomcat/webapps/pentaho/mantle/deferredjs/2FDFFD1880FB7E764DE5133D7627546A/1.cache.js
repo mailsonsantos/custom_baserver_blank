@@ -1,1 +1,0 @@
-Vqb(1294,1,p2d);_.Zb=function pMc(){ypd((wpd(),wpd(),vpd))};N2d(tk)(1);

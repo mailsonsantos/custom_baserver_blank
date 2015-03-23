@@ -1,1 +1,0 @@
-Wqb(1284,1,_1d);_.$b=function _Lc(){ipd((gpd(),gpd(),fpd))};x2d(yk)(1);
