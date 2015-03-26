@@ -1,0 +1,156 @@
+<Schema name="Mestrado">
+  <Cube name="Score" visible="true" cache="true" enabled="true">
+    <Table name="fato_mestrado" schema="public" alias="">
+    </Table>
+    <Dimension type="StandardDimension" visible="true" foreignKey="biblioteca" name="Biblioteca">
+      <Hierarchy name="Biblioteca" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" schema="public" alias="">
+        </Table>
+        <Level name="Desc Biblioteca" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="copiadora" name="Copiadora">
+      <Hierarchy name="Copiadora" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Copiadora" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="cozinha" name="Cozinha">
+      <Hierarchy name="Cozinha" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Cozinha" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="dvd" name="DVD">
+      <Hierarchy name="DVD" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc DVD" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="impressora" name="Impressora">
+      <Hierarchy name="Impressora" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Impressora" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="internet" name="Internet">
+      <Hierarchy name="Internet" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Internet" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="laboratorio_ciencias" name="Lab. Ciencias">
+      <Hierarchy name="Lab. Ciencias" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Lab Ciencias" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="laboratorio_informatica" name="Lab. Informatica">
+      <Hierarchy name="Lab. Informatica" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Lab Informatica" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="localizacao" name="Localizacao">
+      <Hierarchy name="Localizacao" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_localizacao" schema="public" alias="">
+        </Table>
+        <Level name="Desc Localizacao" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="parabolica" name="Parabolica">
+      <Hierarchy name="Parabolica" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" schema="public" alias="">
+        </Table>
+        <Level name="Desc Parabolica" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="parque_infantil" name="Parque Infantil">
+      <Hierarchy name="Parque Infantil" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc P. Infantil" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="retroprojetor" name="Retroprojetor">
+      <Hierarchy name="Retroprojetor" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Retroprojetor" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="sala_diretoria" name="Sala Diretoria">
+      <Hierarchy name="Sala Diretoria" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Diretoria" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="sala_leitura" name="Sala Leitura">
+      <Hierarchy name="Sala Leitura" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Leitura" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="sala_professor" name="Sala Professor">
+      <Hierarchy name="Sala Professor" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Professor" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="tv" name="TV">
+      <Hierarchy name="TV" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc TV" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="videocassete" name="Videocassete">
+      <Hierarchy name="Videocassete" visible="true" hasAll="true" primaryKey="valor">
+        <Table name="dim_simounao" alias="">
+        </Table>
+        <Level name="Desc Videocassete" visible="true" column="valor" nameColumn="descricao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="regiao" name="Regiao">
+      <Hierarchy name="Regiao" visible="true" hasAll="true">
+        <Level name="Regiao" visible="true" column="regiao" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="uf_esc" name="UF">
+      <Hierarchy name="UF" visible="true" hasAll="true">
+        <Level name="UF" visible="true" column="uf_esc" uniqueMembers="false">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Measure name="Score" column="escore" aggregator="avg" visible="true">
+    </Measure>
+  </Cube>
+</Schema>

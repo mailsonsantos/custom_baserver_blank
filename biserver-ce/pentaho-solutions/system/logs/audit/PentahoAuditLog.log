@@ -1,0 +1,82 @@
+2015/03/23 13:53:01		F65C82B70B72C9941B953DCF277CF18E		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/23 13:55:31		F65C82B70B72C9941B953DCF277CF18E		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				150.2779998779297
+2015/03/23 13:56:16		C8F4A8595F7DCB7BA5B9A7699887EEB1		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/23 13:56:49	pentaho-cdf-dd	C8F4A8595F7DCB7BA5B9A7699887EEB1	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_start	1ef1dc56-8a5d-4535-af7e-9a700be05ee2	ts=1427129808656;		0.0
+2015/03/23 13:56:56	pentaho-cdf-dd	C8F4A8595F7DCB7BA5B9A7699887EEB1	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_end	1ef1dc56-8a5d-4535-af7e-9a700be05ee2			7.052000045776367
+2015/03/23 14:01:56		C8F4A8595F7DCB7BA5B9A7699887EEB1		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				339.4460144042969
+2015/03/23 14:07:41		6A4B1301D7A04ACA7CAD5396EB333DBC		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/23 14:07:41		6A4B1301D7A04ACA7CAD5396EB333DBC		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/23 14:07:56	pentaho-cdf-dd	6A4B1301D7A04ACA7CAD5396EB333DBC	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_start	66b5d3d3-c159-4f73-bbe3-7dc7e93f1bac	ts=1427130476783;		0.0
+2015/03/23 14:08:04	pentaho-cdf-dd	6A4B1301D7A04ACA7CAD5396EB333DBC	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_end	66b5d3d3-c159-4f73-bbe3-7dc7e93f1bac			7.46999979019165
+2015/03/23 14:15:09	pentaho-cdf-dd	6A4B1301D7A04ACA7CAD5396EB333DBC	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_start	9d6dc90f-166c-4660-a0d0-4a328be82c8b	ts=1427130909828;		0.0
+2015/03/23 14:15:09	pentaho-cdf-dd	6A4B1301D7A04ACA7CAD5396EB333DBC	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_end	9d6dc90f-166c-4660-a0d0-4a328be82c8b			0.03700000047683716
+2015/03/23 14:15:25		6A4B1301D7A04ACA7CAD5396EB333DBC		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				463.9849853515625
+2015/03/25 12:57:59		B7D30B0752A214D067AD8CC6DB9F203E		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 12:57:59		B7D30B0752A214D067AD8CC6DB9F203E		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 16:14:26		8C6A9E17F12DC72790F6BBA6E2FA8B7C		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 16:14:26		8C6A9E17F12DC72790F6BBA6E2FA8B7C		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 16:41:33		8C6A9E17F12DC72790F6BBA6E2FA8B7C		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				1626.531005859375
+2015/03/25 16:59:03		A204B4E90ECBDE1E4E668D581002C98E		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 16:59:03		A204B4E90ECBDE1E4E668D581002C98E		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 17:02:18		A204B4E90ECBDE1E4E668D581002C98E		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				195.0290069580078
+2015/03/25 17:03:59		582DB05B91787F5B507F59BB15F0C38D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 17:03:59		582DB05B91787F5B507F59BB15F0C38D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 17:07:59		582DB05B91787F5B507F59BB15F0C38D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				239.947998046875
+2015/03/25 17:09:11		110A5FEFFFE99D5373FA42165C001BD4		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 17:09:11		110A5FEFFFE99D5373FA42165C001BD4		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:16:32		0494703B5FA4FC9FDC3D989428472325		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:16:32		0494703B5FA4FC9FDC3D989428472325		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:16:32		1C773992ADDBBAD7A3D99B66DE4E76F7		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:16:32		1C773992ADDBBAD7A3D99B66DE4E76F7		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:16:32		A0BF0F8AA51025F6749D20A8A953FE31		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:16:32		A0BF0F8AA51025F6749D20A8A953FE31		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:48		97D3A817AF400B1545C82AFB74EF65F0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:48		97D3A817AF400B1545C82AFB74EF65F0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:48		2CE9E5EA2812F08B9042DAB0B6A95F5A		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:48		2CE9E5EA2812F08B9042DAB0B6A95F5A		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:49		4FB457F9ED0AD261B3DD70C6CC243D3D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:49		4FB457F9ED0AD261B3DD70C6CC243D3D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:50		D0B1F85348508209798018DDB9DC2306		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:22:50		D0B1F85348508209798018DDB9DC2306		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:24:51		110A5FEFFFE99D5373FA42165C001BD4		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				8140.18408203125
+2015/03/25 19:25:01		DE017795336CD4529FBC8D5ED9A26881		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:27:02	pentaho-cdf-dd	DE017795336CD4529FBC8D5ED9A26881	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_start	56ea7fbe-3b51-4153-9882-a73c6a2aae16	ts=1427322422435;		0.0
+2015/03/25 19:27:09	pentaho-cdf-dd	DE017795336CD4529FBC8D5ED9A26881	/system/languagePack_pt_BR/dashboards/admin/main.wcdf	pt.webdetails.cdf.dd.api.RenderApi	admin	instance_end	56ea7fbe-3b51-4153-9882-a73c6a2aae16			6.882999897003174
+2015/03/25 19:32:50		A0837AAFB6110AD42759C350823A9074		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:32:50		A0837AAFB6110AD42759C350823A9074		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:32:50		54E4112DF311CE7AB96D9CE1BD77E0A0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:32:50		54E4112DF311CE7AB96D9CE1BD77E0A0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:32:50		660A14CE5C60A266805DCCA6A00E5192		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:32:50		660A14CE5C60A266805DCCA6A00E5192		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:32:51		4B6C1E5BEC8CA3CE73CFF458D596D323		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:32:51		4B6C1E5BEC8CA3CE73CFF458D596D323		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:35:34		A0837AAFB6110AD42759C350823A9074		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				164.20799255371094
+2015/03/25 19:35:34		1C773992ADDBBAD7A3D99B66DE4E76F7		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				1142.1190185546875
+2015/03/25 19:35:34		660A14CE5C60A266805DCCA6A00E5192		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				164.10000610351562
+2015/03/25 19:35:34		D0B1F85348508209798018DDB9DC2306		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				764.125
+2015/03/25 19:35:34		4FB457F9ED0AD261B3DD70C6CC243D3D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				765.3610229492188
+2015/03/25 19:35:34		97D3A817AF400B1545C82AFB74EF65F0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				765.4990234375
+2015/03/25 19:35:34		54E4112DF311CE7AB96D9CE1BD77E0A0		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				164.19000244140625
+2015/03/25 19:35:34		2CE9E5EA2812F08B9042DAB0B6A95F5A		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				765.4669799804688
+2015/03/25 19:35:34		4B6C1E5BEC8CA3CE73CFF458D596D323		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				162.83700561523438
+2015/03/25 19:35:34		DE017795336CD4529FBC8D5ED9A26881		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				632.5159912109375
+2015/03/25 19:35:34		A0BF0F8AA51025F6749D20A8A953FE31		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				1142.0059814453125
+2015/03/25 19:35:34		0494703B5FA4FC9FDC3D989428472325		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_end				1142.1600341796875
+2015/03/25 19:36:36		19C270B77421E2FB42CAF7D7CDE9E973		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:36:36		19C270B77421E2FB42CAF7D7CDE9E973		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:01		4AB20348434852BB718D92735020BD6D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:01		4AB20348434852BB718D92735020BD6D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:01		D35BC6FEEAB1B0A84BB5C909BCF26ACC		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:01		D35BC6FEEAB1B0A84BB5C909BCF26ACC		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:01		E28B6D23EFD3D2F26CD2021495BF2BDF		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:01		E28B6D23EFD3D2F26CD2021495BF2BDF		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:03		2CD86E0E881A510CDB4F8933235B8558		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:44:03		2CD86E0E881A510CDB4F8933235B8558		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:02		630B1ACEB0025E6F9F8F36C7611E638D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:02		630B1ACEB0025E6F9F8F36C7611E638D		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:02		629D6446C7E82092E515AC3FBCB071D5		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:02		629D6446C7E82092E515AC3FBCB071D5		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:02		8FD18EE80193F8604835EDF276AD8184		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:02		8FD18EE80193F8604835EDF276AD8184		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:03		234B50D041386E18C5F1A1A244F52E14		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
+2015/03/25 19:47:03		234B50D041386E18C5F1A1A244F52E14		org.pentaho.platform.web.http.session.PentahoHttpSession	admin	session_start				0.0
